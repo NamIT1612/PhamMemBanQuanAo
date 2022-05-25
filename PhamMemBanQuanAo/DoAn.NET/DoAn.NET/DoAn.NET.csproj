@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{44FF5235-86DB-43FC-A739-F4F59BE2CC85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAn.NET</RootNamespace>
+    <AssemblyName>DoAn.NET</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSeparator">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSeparator.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSnackbar">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSnackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl">
+      <HintPath>..\..\Công Nghệ .Net\BunifuCrack-main\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmCaiDatAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmCaiDatAdmin.Designer.cs">
+      <DependentUpon>frmCaiDatAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmDoiMK.Designer.cs">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmLienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmLienHe.Designer.cs">
+      <DependentUpon>frmLienHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmQLHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmQLHoaDon.Designer.cs">
+      <DependentUpon>frmQLHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmQLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmQLKhachHang.Designer.cs">
+      <DependentUpon>frmQLKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmQLKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmQLKho.Designer.cs">
+      <DependentUpon>frmQLKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmQLSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmQLSanPham.Designer.cs">
+      <DependentUpon>frmQLSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmThongKe.Designer.cs">
+      <DependentUpon>frmThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKy.Designer.cs">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon.Designer.cs">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmTTKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmTTKH.Designer.cs">
+      <DependentUpon>frmTTKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\DonHang.cs" />
+    <Compile Include="KhachHang\frmBanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmBanner.Designer.cs">
+      <DependentUpon>frmBanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmCuaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmCuaHang.Designer.cs">
+      <DependentUpon>frmCuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmDoiMKKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmDoiMKKhachHang.Designer.cs">
+      <DependentUpon>frmDoiMKKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmDonHang.Designer.cs">
+      <DependentUpon>frmDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmGioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmGioHang.Designer.cs">
+      <DependentUpon>frmGioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmCaiDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmCaiDat.Designer.cs">
+      <DependentUpon>frmCaiDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\frmLichSuMua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\frmLichSuMua.Designer.cs">
+      <DependentUpon>frmLichSuMua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\GioHang.cs" />
+    <Compile Include="KhachHang\itemChonSize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\itemChonSize.Designer.cs">
+      <DependentUpon>itemChonSize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\itemDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhachHang\itemDatHang.Designer.cs">
+      <DependentUpon>itemDatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\ItemLichSu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhachHang\ItemLichSu.Designer.cs">
+      <DependentUpon>ItemLichSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\ItemDonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhachHang\ItemDonHang.Designer.cs">
+      <DependentUpon>ItemDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\ItemGioHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhachHang\ItemGioHang.Designer.cs">
+      <DependentUpon>ItemGioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\ItemSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KhachHang\ItemSanPham.Designer.cs">
+      <DependentUpon>ItemSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang\Kho.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySQL.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KhachHang\SanPham.cs" />
+    <Compile Include="QLQA.cs">
+      <DependentUpon>QLQA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLQA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLQA.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmCaiDatAdmin.resx">
+      <DependentUpon>frmCaiDatAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmDoiMK.resx">
+      <DependentUpon>frmDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmLienHe.resx">
+      <DependentUpon>frmLienHe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmQLHoaDon.resx">
+      <DependentUpon>frmQLHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmQLKhachHang.resx">
+      <DependentUpon>frmQLKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmQLKho.resx">
+      <DependentUpon>frmQLKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmQLSanPham.resx">
+      <DependentUpon>frmQLSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmThongKe.resx">
+      <DependentUpon>frmThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKy.resx">
+      <DependentUpon>DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon.resx">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmTTKH.resx">
+      <DependentUpon>frmTTKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmBanner.resx">
+      <DependentUpon>frmBanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmCuaHang.resx">
+      <DependentUpon>frmCuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmDoiMKKhachHang.resx">
+      <DependentUpon>frmDoiMKKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmDonHang.resx">
+      <DependentUpon>frmDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmGioHang.resx">
+      <DependentUpon>frmGioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmCaiDat.resx">
+      <DependentUpon>frmCaiDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\frmLichSuMua.resx">
+      <DependentUpon>frmLichSuMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\itemChonSize.resx">
+      <DependentUpon>itemChonSize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\itemDatHang.resx">
+      <DependentUpon>itemDatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\ItemLichSu.resx">
+      <DependentUpon>ItemLichSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\ItemDonHang.resx">
+      <DependentUpon>ItemDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\ItemGioHang.resx">
+      <DependentUpon>ItemGioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhachHang\ItemSanPham.resx">
+      <DependentUpon>ItemSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\04.jpg" />
+    <Content Include="Images\ALD65167.jpg" />
+    <Content Include="Images\ALD80471.jpg" />
+    <Content Include="Images\ald80487-3.jpg" />
+    <Content Include="Images\ALD80501.jpg" />
+    <Content Include="Images\password.png" />
+    <Content Include="Images\store.png" />
+    <Content Include="Images\user.png" />
+    <Content Include="Images\welcome.png" />
+    <None Include="QLQA.xsc">
+      <DependentUpon>QLQA.xsd</DependentUpon>
+    </None>
+    <None Include="QLQA.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLQA.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="QLQA.xss">
+      <DependentUpon>QLQA.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\store.png" />
+    <None Include="Resources\password.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\welcome.png" />
+    <None Include="Images\warehouse_320px.png" />
+    <None Include="Resources\khang.jpg" />
+    <None Include="Images\undo_480px.png" />
+    <None Include="Images\popular_man_500px.png" />
+    <None Include="Images\purchase_order_320px.png" />
+    <None Include="Images\order_history_320px.png" />
+    <None Include="Images\delete_trash_384px.png" />
+    <None Include="Images\close_window_480px.png" />
+    <None Include="Images\product_500px.png" />
+    <None Include="Images\Cửa hàng quần áo thời trang.png" />
+    <Content Include="Images\QJDT1419.jpg" />
+    <Content Include="Images\QJDT6476-ME.jpg" />
+    <Content Include="Images\QKSL17949.jpg" />
+    <Content Include="Images\QKSL6205.jpg" />
+    <Content Include="Images\qksl6429-re_1_.jpg" />
+    <Content Include="Images\Rong.png" />
+    <Content Include="Images\search_500px.png" />
+    <None Include="Images\shopping_cart_240px.png" />
+    <None Include="Images\shopping_basket_320px.png" />
+    <None Include="Images\settings_400px.png" />
+    <None Include="Images\security_configuration_480px.png" />
+    <Content Include="Images\shopping_cart_480px.png" />
+    <None Include="Images\shop_480px.png" />
+    <None Include="Images\shop_320px.png" />
+    <Content Include="Images\SW20243.jpg" />
+    <Content Include="Images\ts18155n.jpg" />
+    <Content Include="Images\ts65258-1.jpg" />
+    <Content Include="Images\tsd81291.jpg" />
+    <Content Include="Images\tsd81508.jpg" />
+    <Content Include="Images\tsd81511.jpg" />
+    <Content Include="Images\tsd81527.jpg" />
+    <Content Include="Images\tsd81528.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

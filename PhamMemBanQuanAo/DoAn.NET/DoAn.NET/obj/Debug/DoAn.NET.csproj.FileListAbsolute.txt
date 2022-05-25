@@ -1,0 +1,200 @@
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.Cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Home.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCuaHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDonHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmGioHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmKhachHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDat.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLichSuMua.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Home.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemSanPham.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.Cache
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe.licenses
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemChonSize.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemDatHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemGioHang.resources
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojResolveAssemblyReference.cache
+C:\Users\khanglam\Downloads\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemDonHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojResolveAssemblyReference.cache
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCuaHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDonHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmGioHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmKhachHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDat.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLichSuMua.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemChonSize.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemDatHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemDonHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemGioHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemSanPham.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.Cache
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe.licenses
+E:\Gộp\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmAdmin.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDatAdmin.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDoiMK.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLienHe.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLHoaDon.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKhachHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKho.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLSanPham.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmThongKe.resources
+E:\Gộp\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+E:\Gộp\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemLichSu.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmDoiMKKhachHang.resources
+E:\Gộp\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmBanner.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmAdmin.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDatAdmin.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDoiMK.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLienHe.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLHoaDon.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKho.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLSanPham.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmThongKe.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmBanner.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCuaHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmDoiMKKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDonHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmGioHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDat.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLichSuMua.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemChonSize.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemDatHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemLichSu.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemDonHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemGioHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemSanPham.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.Cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe.licenses
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmTTKH.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmAdmin.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDatAdmin.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDoiMK.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLienHe.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLHoaDon.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKho.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLSanPham.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmThongKe.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.HoaDon.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmTTKH.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmBanner.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCuaHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmDoiMKKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDonHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmGioHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmKhachHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDat.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLichSuMua.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemChonSize.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemDatHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemLichSu.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemDonHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemGioHang.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemSanPham.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.Cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe.licenses
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\RdlCompile.cache
+C:\Users\NGUYEN THI THU CUC\OneDrive\Máy tính\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\RdlCompile.compiled
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe.config
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.exe
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\bin\Debug\DoAn.NET.pdb
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csprojAssemblyReference.cache
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmAdmin.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDatAdmin.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDoiMK.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLienHe.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLHoaDon.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKhachHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLKho.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmQLSanPham.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmThongKe.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangKy.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.DangNhap.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.HoaDon.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmTTKH.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmBanner.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCuaHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.KhachHang.frmDoiMKKhachHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmDonHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmGioHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmKhachHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmCaiDat.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.frmLichSuMua.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemChonSize.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.itemDatHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemLichSu.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemDonHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemGioHang.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.ItemSanPham.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Main.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.Properties.Resources.resources
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.GenerateResource.cache
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe.licenses
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.CoreCompileInputs.cache
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.csproj.CopyComplete
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.exe
+E:\DoAnNet_NguyenNhutNam_LamChiKhang\DoAn\DoAn\DoAn.NET\DoAn.NET\obj\Debug\DoAn.NET.pdb
